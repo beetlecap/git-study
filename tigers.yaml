@@ -2,12 +2,10 @@ team: Tigers
 
 manager: Ron
 
+coach: Ron
+
 members:
   - Tom
   - Karen
-<<<<<<< HEAD
   - David
   - John
-=======
-  - Margaret
->>>>>>> parent of 5d2cd86 (Second commit)
